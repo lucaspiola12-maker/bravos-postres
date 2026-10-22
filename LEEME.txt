@@ -1,0 +1,13 @@
+BRAVOS PREMIUM V4 — PEDIDOS POR WHATSAPP
+
+1. Abrí index.html en Chrome (con la carpeta assets y config.js al lado).
+2. Dominio elegido: postresfitness.com.ar (NO registrado ni publicado desde esta entrega).
+3. Solo se ofrecen BOX FITNESS ($24.500) y BOX GOURMET ($26.500).
+4. Cada box incluye 6 cookies (2 grupos de 3) y 3 muffins (1 grupo de 3).
+5. Se toman pedidos durante la semana; se reparten los sábados y domingos.
+6. El botón de pedido abre WhatsApp al +54 9 299 405-5546 con detalle, total y seña solicitada de $5.000.
+7. Seña: la página solicita que se coordine por WhatsApp; NO cobra ni verifica el depósito. No marcar un pedido como confirmado hasta comprobarlo.
+8. El botón de correo abre el programa de correo del CLIENTE con un mensaje prearmado a lucaspiola12@gmail.com. NO puede enviarse un correo automático desde una web HTML estática. Para recibir copia automática, hace falta un backend o servicio de formularios con consentimiento y protección anti-spam.
+9. Editá los precios, el número y el correo en config.js. Los textos y sabores están en index.html.
+10. Para publicar: registrar el dominio, contratar hosting estático y configurar DNS/HTTPS. No enviar credenciales por WhatsApp ni incorporarlas al HTML.
+11. Las fotografías son presentaciones sugeridas; validar la información nutricional antes de publicar afirmaciones definitivas.
